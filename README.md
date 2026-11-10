@@ -106,6 +106,14 @@ SQL analysis included:
 - Ranking markets using window functions.
 - Data quality and price validation checks.
 
+### SQL Analysis Example
+
+<img width="416" height="419" alt="image" src="https://github.com/user-attachments/assets/cdfa0137-6787-42eb-934e-68ca890d5758" />
+
+<img width="590" height="525" alt="image" src="https://github.com/user-attachments/assets/dcbba5f9-1b51-4a70-a012-e27ff51402ec" />
+
+<img width="547" height="800" alt="image" src="https://github.com/user-attachments/assets/5f5c1e3f-c551-45aa-87a5-281c45264d30" />
+
 ### 4. Excel Analysis
 
 Used Excel for additional analytical exploration.
@@ -120,6 +128,15 @@ Key techniques:
 - Market and variety analysis.
 - Price spread analysis.
 - XLOOKUP and VLOOKUP for data retrieval.
+
+### Excel Analysis Example
+
+<img width="1124" height="532" alt="Screenshot 2026-11-10 215003" src="https://github.com/user-attachments/assets/438d0b57-242e-421e-9ff5-0d7994e12041" />
+
+<img width="1895" height="413" alt="Screenshot 2026-11-10 215052" src="https://github.com/user-attachments/assets/16691e0e-42d6-49e7-a7f0-1f6e5d17dfe0" />
+
+<img width="1042" height="624" alt="Screenshot 2026-11-10 214946" src="https://github.com/user-attachments/assets/126b0361-1174-4093-9f59-e6b6f027f14e" />
+
 
 ### 5. Tableau Dashboard
 
