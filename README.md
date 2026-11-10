@@ -125,7 +125,7 @@ Key techniques:
 
 Developed an interactive Tableau dashboard to communicate the analytical findings.
 
-**Dashboard:** [View Interactive Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_URL_HERE)
+**Dashboard:** [View Interactive Tableau Dashboard](dashboard/dashboard.png)
 
 Dashboard components:
 
