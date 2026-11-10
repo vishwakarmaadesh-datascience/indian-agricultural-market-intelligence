@@ -144,9 +144,7 @@ Interactive filters allow users to explore market prices by relevant geographica
 
 ### Dashboard Preview
 
-![Indian Agricultural Market Intelligence Dashboard](dashboard/tableau/screenshots/dashboard_overview.png)
-
-*Add your actual dashboard screenshot at the path shown above.*
+<img width="1647" height="897" alt="dashboard" src="https://github.com/user-attachments/assets/609c7f6a-e6b4-430b-a5a9-6d32f6cc14f7" />
 
 ## Key Business Questions and Insights
 
@@ -161,7 +159,7 @@ The analysis is designed to investigate the following business questions:
 | Which markets report higher prices? | Market-level modal price comparison |
 | How reliable is the dataset? | Missing-value and price consistency checks |
 
-**Note:** Add the actual numerical findings from your completed SQL queries and Tableau dashboard here. Avoid reporting assumptions as findings.
+
 
 ## Repository Structure
 
@@ -169,31 +167,22 @@ The analysis is designed to investigate the following business questions:
 indian-agricultural-market-intelligence/
 │
 ├── dashboard/
-│   └── tableau/
-│       ├── screenshots/
-│       └── README.md
+│       ├── dashboard.png
+│       └── market_price_intelligence_dashboard.twt
 │
 ├── excel_analysis/
 │   ├── screenshots/
 │   └── mandi_analysis.xlsx
 │
 ├── notebook/
-│   ├── data_cleaning.ipynb
-│   └── exploratory_data_analysis.ipynb
+│   ├── indian_agricultural_market_intelligence.ipynb
 │
 ├── sql/
-│   ├── database_creation.sql
-│   ├── data_quality.sql
 │   ├── market_analysis.sql
-│   └── commodity_analysis.sql
-│
 ├── .gitignore
 ├── README.md
 └── requirements.txt
 ```
-
-*The filenames above are suggested examples; adjust them to match the files actually present in your repository.*
-
 ## Limitations
 
 - The current analysis is based on a single reporting-date snapshot.
@@ -221,7 +210,7 @@ It provides a structured approach to understanding agricultural market price var
 
 **Adesh Vishwakarma**
 
-BSc Data Science Graduate | Aspiring Data Analyst / Data Scientist
+Pursing MSc Data Science | BSc Data Science Graduate | Aspiring Data Scientist/Analyst
 
 - GitHub: https://github.com/vishwakarmaadesh-datascience
 - LinkedIn: https://www.linkedin.com/in/adesh-vishwakarma-53108b324
@@ -229,4 +218,3 @@ BSc Data Science Graduate | Aspiring Data Analyst / Data Scientist
 
 ---
 
-*Developed as a Data Analytics portfolio project.*
