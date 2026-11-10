@@ -232,6 +232,7 @@ Pursing MSc Data Science | BSc Data Science Graduate | Aspiring Data Scientist/A
 - GitHub: https://github.com/vishwakarmaadesh-datascience
 - LinkedIn: https://www.linkedin.com/in/adesh-vishwakarma-53108b324
 - Portfolio: https://adesh-portfolio-v3.vercel.app/
-
+- Email : vishwakarmaadesh90@gmail.com
+- Phone No : +91 9321569101
 ---
 
